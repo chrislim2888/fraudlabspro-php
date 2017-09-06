@@ -1,5 +1,8 @@
 FraudLabs Pro (PHP Module)
 ========================
+
+## This library is no longer being maintained and updated. Please visit https://github.com/fraudlabspro/fraudlabspro-php for the latest updated version.
+
 This PHP module enables user to easily implement fraud detection feature into their solution using the API from http://www.fraudlabspro.com.
 
 Below are the features of this PHP module:
